@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-06T21:53:41.658Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="ke9NVXFDYPii79ofRoo1" version="21.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-06T22:00:38.738Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="uN_6_doT3Oax0IZAQPTU" version="21.7.2" type="github">
   <diagram name="페이지-1" id="Ckf3YJ7CjYQhhL_5Gp_5">
     <mxGraphModel dx="1344" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="O58o0Ca3pmk0kRto4Yxk-1" value="github 저장 테스트" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="O58o0Ca3pmk0kRto4Yxk-2" value="github 수정 테스트" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
